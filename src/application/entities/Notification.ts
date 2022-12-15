@@ -61,7 +61,4 @@ export class Notification {
     public get createdAt(): Date {
         return this.props.createdAt;
     }
-
-
-
 }
